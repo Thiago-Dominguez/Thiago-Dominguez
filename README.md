@@ -8,7 +8,7 @@
 I’m a passionate learner who thrives on challenges and is always eager to explore new knowledge. While I have professional experience as a developer, my deep interest in data has led me to specialize in data science. Currently, I’m a data science student, combining my technical background with my enthusiasm for uncovering insights from data. Let’s connect and grow together!
 * **I am interested in data. In creating models to predict future outcomes or decisions to be made.**
 - 🌱 I’m currently learning ...
-  - Machigne learning
+  - Machine learning
   - Neural edges
   - I.A.
   - Power Bi
